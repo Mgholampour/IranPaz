@@ -1,8 +1,7 @@
-package iranpaz.com.myapplication
-
+package iranpaz.com.myapplication.Activity
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-
+import iranpaz.com.myapplication.R
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
